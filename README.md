@@ -14,3 +14,4 @@ With the increasing influence of social media on public opinion and behavior, un
 - **Customization:** The model can be fine-tuned on specific datasets or adapted for other text generation tasks, making it versatile for various natural language processing applications.<br>
 
 ## Libraries:
+- Python == 3.11
